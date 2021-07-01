@@ -2,4 +2,4 @@
 Assignment Submissions:
 
 
-This repositories contains the all my assignments submissions to LetsUpgrade for AI-ML course.
+This repository contains the all my assignments submissions to LetsUpgrade for AI-ML course.
